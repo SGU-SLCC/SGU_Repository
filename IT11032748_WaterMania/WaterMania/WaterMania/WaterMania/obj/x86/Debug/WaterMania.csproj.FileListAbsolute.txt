@@ -1,0 +1,12 @@
+C:\Users\Sanuri\Desktop\Year 4 - Semester 2\GD\Ass -Wena wada nathuwata\IT11032748_WaterMania\WaterMania\WaterMania\WaterMania\bin\x86\Debug\Content\table.xnb
+C:\Users\Sanuri\Desktop\Year 4 - Semester 2\GD\Ass -Wena wada nathuwata\IT11032748_WaterMania\WaterMania\WaterMania\WaterMania\bin\x86\Debug\Content\drop.xnb
+C:\Users\Sanuri\Desktop\Year 4 - Semester 2\GD\Ass -Wena wada nathuwata\IT11032748_WaterMania\WaterMania\WaterMania\WaterMania\bin\x86\Debug\Content\splash.xnb
+C:\Users\Sanuri\Desktop\Year 4 - Semester 2\GD\Ass -Wena wada nathuwata\IT11032748_WaterMania\WaterMania\WaterMania\WaterMania\bin\x86\Debug\WaterMania.exe
+C:\Users\Sanuri\Desktop\Year 4 - Semester 2\GD\Ass -Wena wada nathuwata\IT11032748_WaterMania\WaterMania\WaterMania\WaterMania\bin\x86\Debug\WaterMania.pdb
+C:\Users\Sanuri\Desktop\Year 4 - Semester 2\GD\Ass -Wena wada nathuwata\IT11032748_WaterMania\WaterMania\WaterMania\WaterMania\obj\x86\Debug\WaterMania.csprojResolveAssemblyReference.cache
+C:\Users\Sanuri\Desktop\Year 4 - Semester 2\GD\Ass -Wena wada nathuwata\IT11032748_WaterMania\WaterMania\WaterMania\WaterMania\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sanuri\Desktop\Year 4 - Semester 2\GD\Ass -Wena wada nathuwata\IT11032748_WaterMania\WaterMania\WaterMania\WaterMania\obj\x86\Debug\WaterMania.exe
+C:\Users\Sanuri\Desktop\Year 4 - Semester 2\GD\Ass -Wena wada nathuwata\IT11032748_WaterMania\WaterMania\WaterMania\WaterMania\obj\x86\Debug\WaterMania.pdb
+C:\Users\Sanuri\Desktop\Year 4 - Semester 2\GD\Ass -Wena wada nathuwata\IT11032748_WaterMania\WaterMania\WaterMania\WaterMania\bin\x86\Debug\Content\cup.xnb
+C:\Users\Sanuri\Desktop\Year 4 - Semester 2\GD\Ass -Wena wada nathuwata\IT11032748_WaterMania\WaterMania\WaterMania\WaterMania\bin\x86\Debug\Content\SpriteFontDetails.xnb
+C:\Users\Sanuri\Desktop\Year 4 - Semester 2\GD\Ass -Wena wada nathuwata\IT11032748_WaterMania\WaterMania\WaterMania\WaterMania\bin\x86\Debug\Content\SpriteFontStatus.xnb

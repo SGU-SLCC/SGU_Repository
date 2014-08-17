@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>drop.png</Source>
+      <Name>drop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sanuri\Desktop\Year 4 - Semester 2\GD\Ass -Wena wada nathuwata\IT11032748_WaterMania\WaterMania\WaterMania\WaterMania\bin\x86\Debug\Content\drop.xnb</Output>
+      <Time>2014-08-17T22:15:15.131888+05:30</Time>
+    </Item>
+    <Item>
+      <Source>splash.png</Source>
+      <Name>splash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sanuri\Desktop\Year 4 - Semester 2\GD\Ass -Wena wada nathuwata\IT11032748_WaterMania\WaterMania\WaterMania\WaterMania\bin\x86\Debug\Content\splash.xnb</Output>
+      <Time>2014-08-17T22:06:03.2933247+05:30</Time>
+    </Item>
+    <Item>
+      <Source>cup.png</Source>
+      <Name>cup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sanuri\Desktop\Year 4 - Semester 2\GD\Ass -Wena wada nathuwata\IT11032748_WaterMania\WaterMania\WaterMania\WaterMania\bin\x86\Debug\Content\cup.xnb</Output>
+      <Time>2014-08-17T19:41:15.7814274+05:30</Time>
+    </Item>
+    <Item>
+      <Source>table.png</Source>
+      <Name>table</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sanuri\Desktop\Year 4 - Semester 2\GD\Ass -Wena wada nathuwata\IT11032748_WaterMania\WaterMania\WaterMania\WaterMania\bin\x86\Debug\Content\table.xnb</Output>
+      <Time>2014-08-17T20:27:58.2087171+05:30</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFontDetails.spritefont</Source>
+      <Name>SpriteFontDetails</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sanuri\Desktop\Year 4 - Semester 2\GD\Ass -Wena wada nathuwata\IT11032748_WaterMania\WaterMania\WaterMania\WaterMania\bin\x86\Debug\Content\SpriteFontDetails.xnb</Output>
+      <Time>2014-08-17T22:22:09.6755986+05:30</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFontStatus.spritefont</Source>
+      <Name>SpriteFontStatus</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sanuri\Desktop\Year 4 - Semester 2\GD\Ass -Wena wada nathuwata\IT11032748_WaterMania\WaterMania\WaterMania\WaterMania\bin\x86\Debug\Content\SpriteFontStatus.xnb</Output>
+      <Time>2014-08-17T23:47:36.7808522+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Sanuri\Desktop\Year 4 - Semester 2\GD\Ass -Wena wada nathuwata\IT11032748_WaterMania\WaterMania\WaterMania\WaterManiaContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Sanuri\Desktop\Year 4 - Semester 2\GD\Ass -Wena wada nathuwata\IT11032748_WaterMania\WaterMania\WaterMania\WaterMania\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Sanuri\Desktop\Year 4 - Semester 2\GD\Ass -Wena wada nathuwata\IT11032748_WaterMania\WaterMania\WaterMania\WaterManiaContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Sanuri\Desktop\Year 4 - Semester 2\GD\Ass -Wena wada nathuwata\IT11032748_WaterMania\WaterMania\WaterMania\WaterMania\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-07-13T05:28:25.4941286+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

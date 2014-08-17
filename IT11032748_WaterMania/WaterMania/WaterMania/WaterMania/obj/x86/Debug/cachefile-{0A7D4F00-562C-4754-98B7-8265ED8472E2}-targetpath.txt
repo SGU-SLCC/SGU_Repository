@@ -1,0 +1,6 @@
+Content\drop.xnb
+Content\splash.xnb
+Content\cup.xnb
+Content\table.xnb
+Content\SpriteFontDetails.xnb
+Content\SpriteFontStatus.xnb
