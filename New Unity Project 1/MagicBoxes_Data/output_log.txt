@@ -1,0 +1,32 @@
+Initialize engine version: 4.5.2f1 (9abb1b59b47c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0x126)
+    Vendor:   Intel
+    VRAM:     192 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: J:\New Unity Project 1\MagicBoxes_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading J:\New Unity Project 1\MagicBoxes_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: J:\New Unity Project 1\MagicBoxes_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading J:\New Unity Project 1\MagicBoxes_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: J:\New Unity Project 1\MagicBoxes_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading J:\New Unity Project 1\MagicBoxes_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: J:\New Unity Project 1\MagicBoxes_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading J:\New Unity Project 1\MagicBoxes_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  7.049 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: J:\New Unity Project 1\MagicBoxes_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: J:\New Unity Project 1\MagicBoxes_Data\Managed\Boo.Lang.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/Nature/Tree Creator Leaves Optimized' - Pass '' shader state not supported
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
+Platform assembly: J:\New Unity Project 1\MagicBoxes_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 2.439738 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 407.
+Total: 2.660599 ms (FindLiveObjects: 0.017652 ms CreateObjectMapping: 0.010263 ms MarkObjects: 0.130956 ms  DeleteObjects: 0.271766 ms)
+
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/Details/BillboardWavingDoublePass' - Pass '' shader state not supported
